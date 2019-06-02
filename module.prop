@@ -1,0 +1,7 @@
+id=zf6apps
+name=Zenfone 6 AIO Apps
+version=v0.1
+versionCode=1
+author=acervenky
+description=Apps extracted from stock Zenfone 6 Firmware
+minMagisk=1500
